@@ -1,6 +1,6 @@
 # Hi, I'm Lucas Simón  
 
-💻 Backend developer, passionet about learning both old and new technologies, and creating stuff!
+I am a developer with hands-on experience building projects in multiple languages, ranging from REST APIs and CLI tools to little games.
 
 ---
 
