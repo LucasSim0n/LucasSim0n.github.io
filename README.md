@@ -1,4 +1,4 @@
-# Hi, I'm Lucas Simón  
+# Hi! I'm Lucas Simón  
 
 I am a developer with hands-on experience building projects in multiple languages, ranging from REST APIs and CLI tools to little games.
 
