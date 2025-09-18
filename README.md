@@ -1,10 +1,10 @@
-# 👋 Hi, I'm Lucas Simón  
+# Hi, I'm Lucas Simón  
 
 💻 Backend developer, passionet about learning both old and new technologies, and creating stuff!
 
 ---
 
-## 🚀 Tech Stack & Tools
+## Tech Stack & Tools
 - **Languages:** Go, JavaScript, Python, SQL  
 - **Frameworks/Libraries:** Node.js, Express, FastAPI  
 - **Databases:** MySQL, PostgreSQL, MongoDB  
@@ -12,7 +12,15 @@
 
 ---
 
-## 📌 Featured Projects
+## Bootcamp
+
+[Boot.dev](https://www.boot.dev/):
+A backend academy based on modular contents, self-driven development and real-life technologies.
+My profile, projects and certificates here: https://www.boot.dev/u/pelucassimon
+
+---
+
+## Featured Projects
   
 - [Ecommerce](https://github.com/LucasSim0n/ecommerce) — API REST written with express.js for digital comerce.
 
@@ -24,14 +32,14 @@
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats
 ![LucasSim0n GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasSim0n&show_icons=true&theme=dracula)  
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasSim0n&layout=compact&theme=dracula)  
 
 ---
 
-## 📫 Get in Touch
+## Get in Touch
 - Email: lucassimonfeijoo@gmail.com
 ---
 
