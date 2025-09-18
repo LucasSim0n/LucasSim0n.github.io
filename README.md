@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👋 Hi, I'm Lucas Simón  
 
-<!--
-**LucasSim0n/LucasSim0n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Backend developer, passionet about learning both old and new technologies, and creating stuff!
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tech Stack & Tools
+- **Languages:** Go, JavaScript, Python, SQL  
+- **Frameworks/Libraries:** Node.js, Express, FastAPI  
+- **Databases:** MySQL, PostgreSQL, MongoDB  
+- **Tools & Tech:** Git, GitHub, Docker, Bash, Unix, AWS, Postman...
+
+---
+
+## 📌 Featured Projects
+  
+- [Ecommerce](https://github.com/LucasSim0n/ecommerce) — API REST written with express.js for digital comerce.
+
+- [Gator](https://github.com/LucasSim0n/gator) — A CLI client writen in go for fetching, parsing and storeing blog feeds.
+
+- [Chirpy](https://github.com/LucasSim0n/chirpy) — Mínimal API REST written in go for a twitter-like application.
+
+- [Game of Life](https://github.com/LucasSim0n/Conway-GameOfLife) — Minimal implementation of Conway’s Game of Life written in python.
+
+---
+
+## 📈 GitHub Stats
+![LucasSim0n GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasSim0n&show_icons=true&theme=dracula)  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasSim0n&layout=compact&theme=dracula)  
+
+---
+
+## 📫 Get in Touch
+- Email: lucassimonfeijoo@gmail.com
+---
+
+👉 *Thanks for visiting my profile. Feel free to explore my repositories and projects!*  
