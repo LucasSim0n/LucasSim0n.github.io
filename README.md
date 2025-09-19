@@ -22,20 +22,13 @@ My profile, projects and certificates here: https://www.boot.dev/u/pelucassimon
 
 ## Featured Projects
   
-- [Ecommerce](https://github.com/LucasSim0n/ecommerce) — API REST written with express.js for digital comerce.
+- [Ecommerce](https://github.com/LucasSim0n/ecommerce) — API REST written with express.js for digital comerce (work in progress).
 
-- [Gator](https://github.com/LucasSim0n/gator) — A CLI client writen in go for fetching, parsing and storeing blog feeds.
+- [Gator](https://github.com/LucasSim0n/gator) — A CLI client writen in go for fetching, parsing and storing blog feeds.
 
 - [Chirpy](https://github.com/LucasSim0n/chirpy) — Mínimal API REST written in go for a twitter-like application.
 
 - [Game of Life](https://github.com/LucasSim0n/Conway-GameOfLife) — Minimal implementation of Conway’s Game of Life written in python.
-
----
-
-## GitHub Stats
-![LucasSim0n GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasSim0n&show_icons=true&theme=dracula)  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasSim0n&layout=compact&theme=dracula)  
 
 ---
 
@@ -48,7 +41,3 @@ My profile, projects and certificates here: https://www.boot.dev/u/pelucassimon
 ## Get in Touch
 
 - Email: lucassimonfeijoo@gmail.com
-
----
-
-👉 *Thanks for visiting my profile. Feel free to explore my repositories and projects!*  
