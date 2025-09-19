@@ -12,11 +12,11 @@ I am a developer with hands-on experience building projects in multiple language
 
 ---
 
-## Bootcamp
+## Education
 
 [Boot.dev](https://www.boot.dev/):
 A backend academy based on modular contents, self-driven development and real-life technologies.
-My profile, projects and certificates here: https://www.boot.dev/u/pelucassimon
+You can check my projects and certificates in [my profile](https://www.boot.dev/u/pelucassimon).
 
 ---
 
