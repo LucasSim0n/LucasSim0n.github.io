@@ -39,8 +39,16 @@ My profile, projects and certificates here: https://www.boot.dev/u/pelucassimon
 
 ---
 
+## Location
+
+- Vigo/Spain
+
+---
+
 ## Get in Touch
+
 - Email: lucassimonfeijoo@gmail.com
+
 ---
 
 👉 *Thanks for visiting my profile. Feel free to explore my repositories and projects!*  
