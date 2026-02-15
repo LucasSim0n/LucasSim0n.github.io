@@ -22,6 +22,8 @@ You can check my projects and certificates in [my profile](https://www.boot.dev/
 
 ## Featured Projects
   
+- [Café](https://github.com/LucasSim0n/cafe) — A Go routing library on top of net/http.
+  
 - [Ecommerce](https://github.com/LucasSim0n/ecommerce) — API REST written with express.js for digital comerce (work in progress).
 
 - [Gator](https://github.com/LucasSim0n/gator) — A CLI client writen in go for fetching, parsing and storing blog feeds.
